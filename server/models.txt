@@ -1,0 +1,1 @@
+Models are intentionally kept in server.js in this simple version. They can be moved into server/models/ later if needed.

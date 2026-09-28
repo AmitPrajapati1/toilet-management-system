@@ -1,0 +1,1 @@
+export default function StatCard({title,value,icon}){return <div className="card shadow-sm h-100"><div className="card-body d-flex justify-content-between"><div><div className="text-muted small">{title}</div><div className="fs-3 fw-bold">{value}</div></div><i className={`bi ${icon} fs-2 text-primary`}></i></div></div>}

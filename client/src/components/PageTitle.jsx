@@ -1,0 +1,1 @@
+export default function PageTitle({title,children}){return <div className="d-flex justify-content-between align-items-center mb-3"><div><h3 className="mb-1">{title}</h3></div><div>{children}</div></div>}
